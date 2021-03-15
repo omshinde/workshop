@@ -31,7 +31,7 @@ networks of the @WORKSHOP_AREA@ surrounding area. It will cover the following to
 * Writing advanced queries.
 * Writing a custom PostgreSQL stored procedure in ‘plpgsql’.
 
-Please see the :doc:`<../index>` for full content of this workshop.
+Please see the :doc:`contents <../index>` for full content of this workshop.
 
 .. rubric:: Prerequisites
 
